@@ -5,3 +5,5 @@
 - forked from
 [jayaram1125's github repository](https://github.com/jayaram1125/Single-Word-Speech-Recognition-using-GMM-HMM-)
 - fork date: March 24, 2023
+- working folder: `digitrec`
+- extract segmented-gjang.zip to `digitrec/segmented/` to run scripts
